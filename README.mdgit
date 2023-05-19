@@ -1,0 +1,1 @@
+"# fft-on-stm32"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Jackie425/fft-on-stm32.gitgit push -u origin main
